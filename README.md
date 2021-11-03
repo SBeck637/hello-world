@@ -1,3 +1,3 @@
 # hello-world
 Repository For School Project
-I am making this change because The "Hello World" guide demands it of me
+Hello, I'm a lady that likes cats. the 637 after my username is a Blade Runner reference. All I think about is snacks.
